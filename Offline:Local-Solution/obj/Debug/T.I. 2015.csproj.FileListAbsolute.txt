@@ -1,0 +1,42 @@
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe.config
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.pdb
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmCadastrar.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmSplash.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmPesquisar.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmNovaVenda.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmTelaPrincipal.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmLogin.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.Properties.Resources.resources
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csproj.GenerateResource.Cache
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.exe
+\\psf\Home\Documents\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.pdb
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe.config
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.exe
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.pdb
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmCadastrar.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmSplash.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmPesquisar.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmNovaVenda.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmTelaPrincipal.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmLogin.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csproj.GenerateResource.Cache
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe
+C:\Users\ALUNOS\Desktop\New folder (2)\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.pdb
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe.config
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.exe
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.pdb
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.exe
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\bin\Debug\T.I. 2015.pdb
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmCadastrar.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmSplash.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmPesquisar.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmNovaVenda.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmTelaPrincipal.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.frmLogin.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I._2015.Properties.Resources.resources
+\\psf\Home\Desktop\Vidros Barros\T.I. 2015 BKP\T.I. 2015\obj\Debug\T.I. 2015.csproj.GenerateResource.Cache
